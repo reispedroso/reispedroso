@@ -1,6 +1,6 @@
 ### Hi, my name is Eduardo and this is my github.
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=devsnowp&show_icons=true&theme=dracula)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=reispedroso&show_icons=true&theme=dracula)
 
 ## My technology stack includes...
 <div style="display: inline_block">
@@ -12,6 +12,6 @@
        
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsnowp&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reispedroso&hide_progress=true)
 
 
